@@ -1,0 +1,10 @@
+5. bilangan prima
+
+logic yang saya dapat dari soal ini adalah kita dapat menghasilkan deret fibonanci fungsi f(n) dengan rumus 
+f(0)=0, f(1)=1, dan f(n)=f(n-1)+f(n-2) for n>1
+tetapi semua deret fibonanci belum tentu merupakan bilangan prima, contohnya nilai 9, 15, dan kelipatan 5 dan 3 bukan merupakan
+bilangan prima oleh karna itu saya melakukan continue;(skip) di bagian angka yang memiliki kelipatan 3, 5 dan 7
+
+setelah melakukan pengulangan dengan nilai paling rendah 1147 dan berakhir dengan nilai paling tinggi 2147
+setelah melakukan perulangan, sesuai soal yang diminta semua hasil perulangan saya mod 1234567916544
+hasil akhir = "hasil sigma a(n) untuk 1147<=n<=2147 adalah : 380515"
