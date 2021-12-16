@@ -1,0 +1,10 @@
+Jawaban 1. Fungsi Segitiga.
+
+logic yang saya dapat dari soal ini adalah,
+1. 	saya harus membuat sekumpulan kata yang sudah di sediakan menjadi bentuk array, dengan memisahkan ', ' menggunakan split
+	pada function "WordCount"
+2.	mengubah huruf menjadi angka pada function "convertLetterToNumber" menggunakan looping setiap letter lalu di konversikan ke number menggunakan fungsi charCodeAt()
+3. 	setelah itu mapping semua kumpulan kata yang tersedia dan menambahkan number di setiap object mapping angka nya.
+4. 	selanjutnya membuat rumus dari fungsi segitiga menggunakan looping dengan rumus t = 1/2*i*(i+1)
+	dan jika di setiap looping tersebut memiliki nilai yang sama dengan number dari kumpulan kata, akan melakukan penambahan 1 ke variable count
+5.	dan selanjutnya hasil akhir dari soal tersebut adalah "jumlah huruf yang mengandung angka fungsi segitiga adalah 161"
