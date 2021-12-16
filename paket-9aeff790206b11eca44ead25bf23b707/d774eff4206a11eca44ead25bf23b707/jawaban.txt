@@ -1,0 +1,6 @@
+soal 3. kelipatan 109 / 271 yang kurang dari 100000 dan telah di mod 71947
+
+1.	mudahnya disini saya membuat 2 looping untuk kelipatan 109 dan 271 dengan angka looping berada di bawah 100000
+2. 	menjumlahkan setiap hasil looping dari kedua looping ke masing2 variable count dan count2
+3. 	menjumlahkan kedua variable count dan count 2 untuk menghasilkan jumlah akhir yang di inginkan
+4.	dan akan menghasilkan jumlah 38405375

@@ -1,0 +1,12 @@
+soal 2. membuat kombinasi huruf
+
+saya sedikit bingung dengan kombinasi huruf yang akan di hasilkan selanjutnya
+contoh :
+A(1) = AAAAAA
+A(2) = AAAAAB
+A(3) = ... apakah AAAABA atau bisa dengan gabungan huruf lainnya selain A dan B
+
+dengan ini saya membuat urutan huruf yang ada dengan 6 huruf "A,B,C,D,E,F"
+dan akan menghasilkan 46556 kombinasi 6 huruf
+lalu setelah mendapatkan hasil kombinasi huruf saya bisa langsung menuju urutan P(17368) dan akan menghasil 
+kombinasi huruf CBCCCD
